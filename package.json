@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "to-do-list",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description This application is a Template that sets up projects for NodeJs using Sass and bourbon.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,5 +25,13 @@
     "gulp-util": "^3.0.7",
     "jshint": "^2.9.1",
     "vinyl-source-stream": "^1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinBKing/to-do-list2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RobinBKing/to-do-list2/issues"
+  },
+  "homepage": "https://github.com/RobinBKing/to-do-list2#readme"
 }

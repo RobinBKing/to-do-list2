@@ -1,13 +1,13 @@
 {
-  "name": "template",
-  "description": "",
+  "name": "to-do-list",
+  "description": "typeScript to-do list application",
   "main": "gulpfile.js",
   "authors": [
-    "simon <student@epicodus.com>"
+    "Rob <samiamspop@gmail.com>"
   ],
   "license": "ISC",
   "moduleType": [],
-  "homepage": "",
+  "homepage": "https://github.com/RobinBKing/to-do-list2.git",
   "ignore": [
     "**/.*",
     "node_modules",
